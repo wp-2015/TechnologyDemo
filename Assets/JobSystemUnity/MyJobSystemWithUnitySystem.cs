@@ -2,6 +2,8 @@
 using Unity.Entities;
 using Unity.Jobs;
 
+//先把System注释掉，测试打开就可以。
+/*
 namespace WP.JobSystemWithUnityDemo
 {
     public class MyJobSystemWithUnitySystem : JobComponentSystem
@@ -29,3 +31,4 @@ namespace WP.JobSystemWithUnityDemo
         }
     }
 }
+*/
