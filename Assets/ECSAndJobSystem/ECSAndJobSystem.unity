@@ -309,7 +309,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goTemplete: {fileID: 3676147318003861657, guid: 462e31ec81a056048811df63c2d24ea6,
     type: 3}
-  max: 100
+  max: 2
   intervalDis: 2
   tfStartPos: {fileID: 6623783660277247843}
 --- !u!4 &6623783660277247843 stripped
